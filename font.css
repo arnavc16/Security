@@ -1,0 +1,73 @@
+<style>
+	@font-face{
+			font-family: "apercu";
+			src: url("../font/ApercuPro-Regular.ttf") format("ttf");
+			font-weight: normal;
+		}
+	@font-face{
+		font-family: "apercu";
+		src: url("https://cs.tru.ca/~hle/HCI/font/ApercuPro-ThinItalic.ttf") format("ttf");
+		font-style:italic;
+		font-weight: thin;
+	}
+	@font-face{
+		font-family: "apercu";
+		src: url("../font/ApercuPro-Thin.ttf") format("ttf");
+		font-weight: thin;
+	}
+	
+	@font-face{
+		font-family: "apercu";
+		src: url("../font/ApercuPro-MediumItalic.ttf") format("ttf");
+		font-style:italic;
+		font-weight: medium;
+	}
+	@font-face{
+		font-family: "apercu";
+		src: url("../font/ApercuPro-MediumItalic.ttf") format("ttf");
+		font-weight: medium;
+	}
+	@font-face{
+		font-family: "apercu";
+		src: url("../font/ApercuPro-LightItalic.ttf") format("ttf");
+		font-style:italic;
+		font-weight: 200;
+	}
+	@font-face{
+		font-family: "apercu";
+		src: url("../font/ApercuPro-Light.ttf") format("ttf");
+		font-weight: 200;
+	}
+	@font-face{
+		font-family: "cera";
+		src: url("../font/cera_pro_regular_italic.ttf") format("ttf");
+		font-style: italic;
+		font-weight: normal;
+	}
+	@font-face{
+		font-family: "cera";
+		src: url("../font/cera_pro_medium.ttf") format("ttf");
+		font-weight: medium;
+	}
+	@font-face{
+		font-family: "cera";
+		src: url("../font/cera_pro_light.ttf") format("ttf");
+		font-weight: 200;
+	}
+	@font-face{
+		font-family: "cera";
+		src: url("../font/cera_pro_bold.ttf") format("ttf");
+		font-weight: bold;
+	}
+	@font-face{
+		font-family: "cera";
+		src: url("../font/cera_pro_black_italic.ttf") format("ttf");
+		font-style: italic;
+		font-weight: black;
+	}
+	@font-face{
+		font-family: "cera";
+		src: url("../font/cera_pro_black.ttf") format("ttf");
+		font-weight: black;
+	}
+</style>

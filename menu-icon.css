@@ -1,0 +1,58 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+
+.menu_icon {
+  width: 5vw;
+  height: 3.5vw;
+  z-index: 10;
+  cursor: pointer;
+  position: fixed;
+  display: flex;
+  align-items: center;
+  padding: 0 0;
+  top:4vh;
+  left:4vh;
+}
+
+.menu_icon span {
+  position: absolute;
+  display: block;
+  height: .3vh;
+  width: 5vw;
+  background-color: #fff;
+  transition: 0.3s ease;
+}
+
+span.one {
+  top: 0;
+  width: 100%;
+}
+
+span.two {
+  top: 50%;
+  width: 75%;
+}
+
+span.three {
+  top: 100%;
+  width: 50%;
+}
+
+.clicked .one {
+  width: 100%;
+}
+
+.clicked .two {
+ width:50%;
+ left: 50%;
+}
+
+.clicked .three {
+  width: 25%;
+  left: 75%;
+}
+
